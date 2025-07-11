@@ -15,8 +15,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github,wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github,wordpress,vite,prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
 </p>
 
