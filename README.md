@@ -6,7 +6,7 @@
 ## 🧑‍💻 Chi sono
 
 - 💼 Attualmente lavoro su progetti freelance e open-source
-- 🛠️ Le mie competenze includono: **HTML, CSS, React-Vite, Node.js, Express.js, Laravel, PHP, JavaScript, Git e Github, Wordpress, Prisma (ORM), MySQL**
+- 🛠️ Le mie competenze includono: **HTML, CSS, React-Vite, Node.js, Express.js, Laravel, PHP, JavaScript, Git e Github, Wordpress, Prisma (ORM), MySQL, Figma**
 - 📫 Contattami su [mossutoluigi4@gmail.com](mailto:mossutoluigi4@gmail.com)
 - ⚡ Curiosità: amo automatizzare qualsiasi cosa!
 
@@ -15,7 +15,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github,wordpress,vite,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github,wordpress,vite,prisma,figma" />
 </p>
 
 ---
